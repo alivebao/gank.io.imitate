@@ -1,3 +1,6 @@
+#root{
+  background-image: url(./resource/img/bg.png)
+}
 .App {
   text-align: center;
 }
