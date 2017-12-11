@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import GankHeader from './GankHeader'
+import GankBody from './GankBody'
 import './App.css';
 import './resource/img/bg.png'
 
@@ -8,6 +9,7 @@ class App extends Component {
     return (
       <div>
         <GankHeader />
+        <GankBody />
       </div>
     );
   }
